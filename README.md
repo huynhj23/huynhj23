@@ -6,7 +6,7 @@ I am trying to make a 2D platformer, inspired by Megaman X, Ori and the Blind Fo
 - Experienced: C, C#, Java, Python, MatLab
 - Learning: HTML, CSS
 ### Current Projects
-- HTML CSS Website incoming
+- HTML CSS Website 
 - 2D Platformer
 ### Contact Info
 Contact me at huynhj23@mymacewan.ca for any questions about me or my work.
